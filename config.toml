@@ -83,7 +83,7 @@ disqusShortname = "boualem"
 [[params.social]]
     name = "Twitter"
     icon = "fa fa-twitter"
-    weight = 5
+    weight = 1
     url = "https://twitter.com/OBoualem93/"
 [[params.social]]
     name = "LinkedIn"
@@ -103,12 +103,12 @@ disqusShortname = "boualem"
 [[params.social]]
     name = "Phone"
     icon = "fa fa-phone"
-    weight = 1
+    weight = 5
     url = "tel:+33667710979"
 [[params.social]]
     name = "Envelope"
     icon = "fa fa-envelope"
-    weight = 2
+    weight = 6
     url = "mailto:oussama@boualem.pro"
 
 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oussama Boualem</title>
+    <link>http://www.boualem.pro/</link>
+    <description>Recent content on Oussama Boualem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Jul 2020 18:22:15 +0200</lastBuildDate><atom:link href="http://www.boualem.pro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I moved to France in 2014</title>
+      <link>http://www.boualem.pro/posts/movedtofrance/</link>
+      <pubDate>Tue, 14 Jul 2020 18:22:15 +0200</pubDate>
+      
+      <guid>http://www.boualem.pro/posts/movedtofrance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Got married in 2019</title>
+      <link>http://www.boualem.pro/posts/gotmarried/</link>
+      <pubDate>Sun, 14 Jun 2020 18:22:15 +0200</pubDate>
+      
+      <guid>http://www.boualem.pro/posts/gotmarried/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
