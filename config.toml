@@ -1,0 +1,139 @@
+baseurl = "http://www.example.com"
+title = "Oussama Boualem"
+
+theme = "hugo-coder"
+
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "oussama"
+
+[params]
+    author = "Oussama Boualem"
+    description = "Oussama Boualem's personal website"
+    keywords = "blog,developer,personal"
+    info = "Business Analyst"
+    avatarurl = "img/face.jpg"
+    footercontent = ""
+
+    dateformat = "January 2, 2006"
+
+    hideFooter = false
+    hideCredits = true
+    hideCopyright = true
+    since = 2019
+
+    # Git Commit in Footer, uncomment the line below to enable it.
+    #commit = "https://github.com/luizdepra/hugo-coder/tree/"
+
+    rtl = false
+
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorscheme = "auto"
+
+    # Hide the toggle button, along with the associated vertical divider
+    hidecolorschemetoggle = false
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Enable Twemoji
+    enableTwemoji = true
+
+    # Custom CSS
+    customCSS = []
+
+    # Custom SCSS
+    customSCSS = []
+
+    # Custom JS
+    customJS = []
+
+# If you want to use fathom(https://usefathom.com) for analytics, add this section
+[params.fathomAnalytics]
+    siteID = "ABCDE"
+    # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
+    serverURL = "analytics.example.com"
+
+# If you want to use plausible(https://plausible.io) for analytics, add this section
+[params.plausibleAnalytics]
+    domain = "example.com"
+    # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
+    serverURL = "analytics.example.com"
+
+# If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
+[params.goatCounter]
+    code = "code"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter"
+    weight = 5
+    url = "https://twitter.com/OBoualem93/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin"
+    weight = 2
+    url = "https://www.linkedin.com/in/oussama-boualem-a875b384/"
+[[params.social]]
+    name = "Facebook"
+    icon = "fa fa-facebook"
+    weight = 3
+    url = "https://fr-fr.facebook.com/amassuoibrahg"
+[[params.social]]
+    name = "Instagram"
+    icon = "fa fa-instagram"
+    weight = 4
+    url = "https://www.instagram.com/boualem_ous/"
+[[params.social]]
+    name = "Phone"
+    icon = "fa fa-phone"
+    weight = 1
+    url = "tel:+33667710979"
+[[params.social]]
+    name = "Envelope"
+    icon = "fa fa-envelope"
+    weight = 2
+    url = "mailto:oussama@boualem.pro"
+
+
+[languages]
+    [languages.en]
+        languagename = "English"
+
+        [languages.en.menu]
+
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 1
+            url = "about/"
+
+            [[languages.en.menu.main]]
+            name = "Curriculum Vitae"
+            weight = 2
+            url = "cv/"
+
+            [[languages.en.menu.main]]
+            name = "Posts"
+            weight = 3
+            url = "posts/"
+
+            [[languages.en.menu.main]]
+            name = "Contact me"
+            weight = 5
+            url = "contact/"
