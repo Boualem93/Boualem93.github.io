@@ -12,7 +12,7 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "oussama"
+disqusShortname = "disqus_HiO1KKNkTK"
 
 [params]
     author = "Oussama Boualem"

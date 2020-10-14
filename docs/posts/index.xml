@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Oussama Boualem</title>
-    <link>http://www.example.com/posts/</link>
+    <link>http://www.boualem.pro/posts/</link>
     <description>Recent content in Posts on Oussama Boualem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2020 18:22:15 +0200</lastBuildDate><atom:link href="http://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jul 2020 18:22:15 +0200</lastBuildDate><atom:link href="http://www.boualem.pro/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I moved to France in 2014</title>
-      <link>http://www.example.com/posts/movedtofrance/</link>
+      <link>http://www.boualem.pro/posts/movedtofrance/</link>
       <pubDate>Tue, 14 Jul 2020 18:22:15 +0200</pubDate>
       
-      <guid>http://www.example.com/posts/movedtofrance/</guid>
+      <guid>http://www.boualem.pro/posts/movedtofrance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Got married in 2019</title>
+      <link>http://www.boualem.pro/posts/gotmarried/</link>
+      <pubDate>Sun, 14 Jun 2020 18:22:15 +0200</pubDate>
+      
+      <guid>http://www.boualem.pro/posts/gotmarried/</guid>
       <description></description>
     </item>
     
